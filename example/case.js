@@ -56,3 +56,4 @@ app.get("/details", function (req, res) {
       }
     })
 });
+
